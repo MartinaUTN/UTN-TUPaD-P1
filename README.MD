@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Profesora 
-- **Nombre:** Martina Zabala*  
-- **Comisión:** M2025-11*  
+- **Nombre:** Martina Zabala  
+- **Comisión:** M2025-11  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
